@@ -1,2 +1,2 @@
 # ecommerce_app
-Full Stack ECommerce React Application with Next.Js, Sanity and Stripe
+Full Stack ECommerce React Application using React, Material UI, Stripe, Formik, Yup, Strapi, and Redux Toolkit.
